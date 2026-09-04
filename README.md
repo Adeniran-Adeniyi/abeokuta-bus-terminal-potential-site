@@ -6,16 +6,15 @@ The Study examine the spatial relationship between existing bus stops, road netw
 Where should a centralized bus terminal be located in Abeokuta to maximize accessibility, passenger demand, and service coverage while minimizing congestion, travel distance, and environmental risk?
 ## Key Datasets & Sources
 Dataset | Source
---- | ---
-Existing bus-stop locations | Field data
-Road network | OpenStreetMap
-Abeokuta study-area boundary | GRID3
-Population distribution | GRID3
-Land use/land cover | ESA WorldCover
-Major activity centres | OpenStreetMap
-Digital Elevation Model (DEM) | Copernicus DEM
-waterways | OpenStreetMap
-LULC | Sentinel-2 
+--- | --- | ---
+Existing bus-stop locations | Field data | 
+Road network | OpenStreetMap | https://www.openstreetmap.org/#map=11/7.1847/3.3364
+Abeokuta study-area boundary | GRID3 | https://data.grid3.org/search?tags=nigeria
+Population distribution | GRID3 | https://data.grid3.org/search?tags=nigeria
+Major activity centres | GRID3 | https://data.grid3.org/search?tags=nigeria
+Digital Elevation Model (DEM) | DEM,SRTM | https://earthexplorer.usgs.gov/
+waterways | | GRID3 | https://data.grid3.org/search?tags=nigeria
+LULC | Sentinel-2 | https://livingatlas.arcgis.com/landcover/
 ## Project Goal
 The project aims to use GIS-based Multi-Criteria Evaluation (MCE) and network analysis to identify, evaluate, and rank potential locations for a centralized bus terminal in Abeokuta.
 The analysis will consider accessibility, passenger demand, road connectivity, land-use suitability, proximity to major activity centres, environmental constraints, and potential service coverage.
