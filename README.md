@@ -19,16 +19,10 @@ Where should a centralized bus terminal be located in Abeokuta to maximize acces
 The project aims to use GIS-based Multi-Criteria Evaluation (MCE) and network analysis to identify, evaluate, and rank potential locations for a centralized bus terminal in Abeokuta.
 The analysis will consider accessibility, passenger demand, road connectivity, land-use suitability, proximity to major activity centres, environmental constraints, and potential service coverage.
 ## Key Analysis
-- Existing bus-stop distribution
-- Road accessibility and connectivity
-- Population and potential passenger demand
-- Proximity to major activity centres
-- Land-use suitability
-- Environmental constraints
-- Service-area analysis
-- Travel-distance analysis
 - Multi-Criteria Evaluation (MCE)
 - Candidate-site identification and ranking
+- location allocation
+- Service-area analysis
 ## Expected Output
 The final output will be a GIS-based suitability map identifying and ranking potential locations for a centralized bus terminal in Abeokuta.
 The study will also produce supporting spatial datasets, thematic maps, accessibility and service-area analyses, and a final candidate-site assessment.
